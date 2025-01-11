@@ -1,8 +1,6 @@
 # Traffic-Flow-Prediction-System
 Developed a predictive system to forecast traffic flow patterns using historical traffic data.
 
-# Traffic Flow Prediction System
-
 ## Overview
 The **Traffic Flow Prediction System** is a Python-based solution designed to analyze historical traffic data and forecast traffic flow patterns. This system uses advanced time-series forecasting techniques and machine learning models to enable urban planners and transportation authorities to optimize traffic operations and manage congestion effectively.
 
